@@ -47,5 +47,5 @@ Este projeto tem como missão acompanhar e aplicar o conteúdo aprendido no curs
 
 ---
 
-## 📦 Estrutura Sugerida
+
 
